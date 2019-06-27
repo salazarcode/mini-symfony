@@ -1,0 +1,16 @@
+{
+    "name": "andres/buscador",
+    "description": "Buscador para venbano",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrés Salazar",
+            "email": "andreseduardo1705@outlook.es"
+        }
+    ],
+    "require": {
+        "symfony/symfony": "^4.3",
+        "tightenco/collect": "^5.8"
+    }
+}
