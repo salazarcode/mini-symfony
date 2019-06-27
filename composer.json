@@ -10,7 +10,6 @@
         }
     ],
     "require": {
-        "symfony/symfony": "^4.3",
-        "tightenco/collect": "^5.8"
+        "symfony/symfony": "^4.3"
     }
 }
